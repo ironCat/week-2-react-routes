@@ -1,4 +1,4 @@
-# SkillCrucial React Redux boilerplate
+# week 11 - home_work 2 SkillCrucial React Redux boilerplate
 
 ## Quick start
 
